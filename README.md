@@ -34,7 +34,13 @@ Se puede seleccionar entre los temas Claro, Oscruro, Kitty y Limón.
 |**Limón**         |![Limón  Principal](/resources/pictures/Screenshot_20191103-114010.png) |![Claro Principal](/resources/pictures/Screenshot_20191103-131859.png)
 
 
-
+## Dependencias
+- sqflite: ^1.1.6+5 
+- path_provider: ^1.3.0
+- intent: ^1.1.0
+- permission_handler: ^3.2.2
+- provider: ^3.1.0
+- shared_preferences: ^0.5.3+5
 
 
 
